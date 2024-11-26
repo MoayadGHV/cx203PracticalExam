@@ -1,0 +1,25 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb.sv,1732617013,systemVerilog,,,,tb_task1,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_circuitsTask1.sv,1732624426,systemVerilog,,,,tb_circuitsTask1,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_miniCircuits.sv,1732622542,systemVerilog,,,,tb_miniCircuits,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_task2.sv,1732617411,systemVerilog,,,,tb_task2,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_task3.sv,1732619562,systemVerilog,,,,tb_task3,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_task4.sv,1732621332,systemVerilog,,,,tb_task4,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/ALU.sv,1732622970,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/Decoder.sv,,ALU,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/Decoder.sv,1732371720,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/RDff.sv,,Decoder,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/RDff.sv,1732186831,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/ROM.sv,,RDff,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/ROM.sv,1732625857,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/circuits_task1.sv,,ROM,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/mux.sv,1732623566,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/muxS.sv,,mux,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/programcounter.sv,1732187734,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/register.sv,,programcounter,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/register.sv,1732520540,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_circuitsTask1.sv,,register,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/circuits_task1.sv,1732625986,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/mux.sv,,circuits_task1,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/miniCircuits_task2.sv,1732622266,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_miniCircuits.sv,,miniCircuits_task2,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/muxS.sv,1732623627,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/imports/new/programcounter.sv,,muxS,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/task1.sv,1732616964,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb.sv,,task1,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/task2.sv,1732617240,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_task2.sv,,task2,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/task3.sv,1732619838,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_task3.sv,,task3,,,,,,,,
+/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sources_1/new/task4.sv,1732621609,systemVerilog,,/home/nsh1/cx203PracticalExam/microCircuits/microCircuits.srcs/sim_1/new/tb_task4.sv,,task4,,,,,,,,

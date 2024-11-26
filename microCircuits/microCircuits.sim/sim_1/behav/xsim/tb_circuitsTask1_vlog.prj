@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../microCircuits.srcs/sources_1/imports/new/ALU.sv" \
+"../../../../microCircuits.srcs/sources_1/imports/new/Decoder.sv" \
+"../../../../microCircuits.srcs/sources_1/imports/new/RDff.sv" \
+"../../../../microCircuits.srcs/sources_1/imports/new/ROM.sv" \
+"../../../../microCircuits.srcs/sources_1/new/circuits_task1.sv" \
+"../../../../microCircuits.srcs/sources_1/imports/new/mux.sv" \
+"../../../../microCircuits.srcs/sources_1/new/muxS.sv" \
+"../../../../microCircuits.srcs/sources_1/imports/new/programcounter.sv" \
+"../../../../microCircuits.srcs/sources_1/imports/new/register.sv" \
+"../../../../microCircuits.srcs/sim_1/new/tb_circuitsTask1.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

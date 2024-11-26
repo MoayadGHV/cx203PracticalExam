@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../microCircuits.srcs/sources_1/new/miniCircuits_task2.sv" \
+"../../../../microCircuits.srcs/sim_1/new/tb_miniCircuits.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
